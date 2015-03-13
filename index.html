@@ -1,0 +1,36 @@
+<html>
+  <head>
+    <style>
+      * {
+        box-sizing: 'border-box';
+      }
+      #map {
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        padding: 100px;
+      }
+      #map svg {
+        padding: 100px;
+      }
+      body {
+        background: black;
+      }
+      .datamaps-subunits path {
+        fill: #333 !important;
+        stroke: #333 !important;
+      }
+      circle {
+        fill: rgba(255,255,118,1) !important;
+        stroke-width: 0 !important;
+      }
+    </style>
+  </head>
+  <body>
+  <div id='map'></div>
+  <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+  <script src='bundle.js'></script>
+  </body>
+</html>
