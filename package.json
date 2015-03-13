@@ -1,0 +1,37 @@
+{
+  "name": "partner-map",
+  "version": "1.0.0",
+  "description": "Generates a map visualization of partner locations.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/craigspaeth/partner-map.git"
+  },
+  "keywords": [
+    "map",
+    "artsy",
+    "partners"
+  ],
+  "author": "Craig Spaeth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/craigspaeth/partner-map/issues"
+  },
+  "homepage": "https://github.com/craigspaeth/partner-map",
+  "scripts": {
+    "c": "browserify lib/index.coffee -t coffeeify > public/bundle.js",
+    "w": "watchify lib/index.coffee  -t coffeeify -o public/bundle.js",
+    "d": "coffee  lib/map-data.coffee"
+  },
+  "dependencies": {
+    "d3": "*",
+    "topojson": "*",
+    "datamaps": "git://github.com/markmarkoh/datamaps.git",
+    "browserify": "*",
+    "coffeeify": "*",
+    "coffee-script": "*",
+    "watchify": "*",
+    "mongojs": "*",
+    "async": "*"
+  }
+}
