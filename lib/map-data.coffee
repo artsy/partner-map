@@ -21,7 +21,7 @@ db.partner_locations.find (err, locations) ->
     json = for location in locations
       name = (partner for partner in partners when partner._id.toString() \
         is location.partner_id.toString())[0]?.display_name
-      continue unless location.coordinates?.length is 2
+      continue unless name and location.coordinates?.length is 2
       {
         name: name or ''
         radius: 5
