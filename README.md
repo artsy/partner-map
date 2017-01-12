@@ -1,5 +1,6 @@
-# partner-map
-Generates a map visualization of partner locations.
+# Artsy Maps
+
+Generates a map visualization of interesting data.
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/022d3b2M0Y0T2n1k192k/cimg.jpg)
 
@@ -7,15 +8,18 @@ Generates a map visualization of partner locations.
 
 Copy the following collections from Artsy database to your local `gravity_development` mongo.
 
-* partner_locations
-* partners
+* `partner_locations`
+* `partners`
+* `users`
 
-Install node modules
+Get a backup of the impulse production database from heroku, and move it into a local postgres setup in `artsy-impulse-production`.
 
-`npm install`
+## Install node modules:
 
-Generate the geo points data and output the bundle
+`yarn install`
 
-`npm run d && npm run c`
+Generate the geo points data, by using the coffescript files in the `data` dirs, then to start up the sites run
 
-Open public/index.html
+`npm run watch`
+
+Then look at the html files inside `public/web`.

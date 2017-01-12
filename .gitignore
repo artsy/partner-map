@@ -26,3 +26,13 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+
+# Add derived logs
+web/public/*.js
+
+# Any derived inquiry json file
+data/jsons/*inqui*.json
+data/jsons/artsy*.json
+
+# less space for potential mistakes
+*.zip

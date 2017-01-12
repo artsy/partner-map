@@ -1,6 +1,6 @@
 #
 # Maps data from the gravity_development mongo db into something the map can use.
-#
+# yarn run coffee -- data/partners/artsy-partner-map-data.coffee
 
 fs = require 'fs'
 async = require 'async'
@@ -28,9 +28,10 @@ db.partner_locations.find (err, locations) ->
         significance: 'Ipsum'
         fillKey: location.country
         longitude: location.coordinates[0]
-        latitude: location.coordinates[1]
+        latitude: location.coordinates[1],
+        created_at: partner.created_at
       }
 
     # Write to a json file to be required on the client
-    fs.writeFileSync __dirname + '/points.json', JSON.stringify json
+    fs.writeFileSync __dirname + '/../jsons/artsy-partners-points.json', JSON.stringify json
     process.exit()

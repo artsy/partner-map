@@ -1,4 +1,5 @@
 <html>
+  <meta charset="utf-8"/>
   <head>
     <style>
       * {
@@ -10,10 +11,9 @@
         position: absolute;
         top: 0;
         left: 0;
-        padding: 100px;
       }
       #map svg {
-        padding: 100px;
+
       }
       body {
         background: black;
@@ -26,11 +26,25 @@
         fill: rgba(255,255,118,1) !important;
         stroke-width: 0 !important;
       }
+      #year {
+        position: absolute;
+        bottom: 50;
+        left: 50;
+        color: rgba(255, 255, 255, 0.6);
+        font-family: "Avant Garde Gothic ITCW01Dm";
+        font-size: 50
+      }
+
     </style>
   </head>
   <body>
   <div id='map'></div>
+  <div id='year'>1918</div>
+
   <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
-  <script src='bundle.js'></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+  <script src="datamaps.world.min.js"></script>
+  <script src='galleries.js'></script>
   </body>
 </html>
