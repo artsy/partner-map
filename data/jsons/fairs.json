@@ -1,0 +1,2954 @@
+[
+  {
+    "name": "BADA Antiques Fair London",
+    "radius": 8,
+    "Website": "http://www.badafair.com/",
+    "created_at": 1918,
+    "Location": "Dufferin Street, London",
+    "latitude": 51.5229346,
+    "longitude": -0.0914522
+  },
+  {
+    "name": "57th Strteet Art Fair",
+    "radius": 8,
+    "Website": "http://www.57thstreetartfair.org/",
+    "created_at": 1948,
+    "Location": "Chicago, Illinois",
+    "latitude": 41.8781136,
+    "longitude": -87.6297982
+  },
+  {
+    "name": "Frankfurt Book Fair",
+    "radius": 8,
+    "Website": "http://www.buchmesse.de/en/fbf/",
+    "created_at": 1949,
+    "Location": "Frankfurt, Germany",
+    "latitude": 50.1109221,
+    "longitude": 8.6821267
+  },
+  {
+    "name": "Chelsea Antiques Fair Spring",
+    "radius": 8,
+    "Website": "http://www.antiquespr.com/uppdf/Chelsea%20Fair%20Press%20Release%201.pdf",
+    "created_at": 1950,
+    "Location": "King’s Road, London",
+    "latitude": 51.4850694,
+    "longitude": -0.1745647
+  },
+  {
+    "name": "Interior Design Show Toronto",
+    "radius": 8,
+    "Website": "http://www.interiordesignshow.com/",
+    "created_at": 1952,
+    "Location": "Toronto, Canada",
+    "latitude": 43.653226,
+    "longitude": -79.3831843
+  },
+  {
+    "name": "Winter Antiques Show",
+    "radius": 8,
+    "Website": "http://www.winterantiquesshow.com/",
+    "created_at": 1954,
+    "Location": "PARK AVENUE, NY",
+    "latitude": 43.1460573,
+    "longitude": -77.5834339
+  },
+  {
+    "name": "Ceramic Art London",
+    "radius": 8,
+    "Website": "http://www.ceramics.org.uk/index.php",
+    "created_at": 1958,
+    "Location": "Central Saint Martins, London",
+    "latitude": 51.5186282,
+    "longitude": -0.12015
+  },
+  {
+    "name": "London International Antiquarian Fair",
+    "radius": 8,
+    "Website": "http://www.olympiabookfair.com/",
+    "created_at": 1958,
+    "Location": "London, UK",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "Unpainted Munich",
+    "radius": 8,
+    "Website": "http://www.unpainted.net/",
+    "created_at": 1960,
+    "Location": "Munich, Germany",
+    "latitude": 48.1351253,
+    "longitude": 11.5819806
+  },
+  {
+    "name": "Salon del Mobile Milano",
+    "radius": 8,
+    "Website": "https://www.salonemilano.it/en/",
+    "created_at": 1961,
+    "Location": "Milan, Italy",
+    "latitude": 45.4654219,
+    "longitude": 9.1859243
+  },
+  {
+    "name": "Master Drawings",
+    "radius": 8,
+    "Website": "http://masterdrawings.org/",
+    "created_at": 1962,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "Biennales des Antiquaires",
+    "radius": 8,
+    "Website": "http://www.biennale-paris.com/en",
+    "created_at": 1962,
+    "Location": "Paris, France",
+    "latitude": 48.856614,
+    "longitude": 2.3522219
+  },
+  {
+    "name": "Original Miami Beach Antiques Show",
+    "radius": 8,
+    "Website": "http://www.originalmiamibeachantiqueshow.com/",
+    "created_at": 1962,
+    "Location": "Miami Beach, FL",
+    "latitude": 25.790654,
+    "longitude": -80.1300455
+  },
+  {
+    "name": "BRAFA - BRUSSELS FINE ART FAIR",
+    "radius": 8,
+    "Website": "http://www.brafa.be",
+    "created_at": 1967,
+    "Location": "Brussels, Belgum",
+    "latitude": 50.8503396,
+    "longitude": 4.3517103
+  },
+  {
+    "name": "Art Cologne",
+    "radius": 8,
+    "Website": "Art Cologne Website",
+    "created_at": 1967,
+    "Location": "Cologne, Germany",
+    "latitude": 50.937531,
+    "longitude": 6.9602786
+  },
+  {
+    "name": "Art Basel",
+    "radius": 8,
+    "Website": "Art Basel Website",
+    "created_at": 1970,
+    "Location": "Basel, Switzerland",
+    "latitude": 47.5595986,
+    "longitude": 7.5885761
+  },
+  {
+    "name": "Cologne Fine Art Fair",
+    "radius": 8,
+    "Website": "www.colognefineart.com",
+    "created_at": 1970,
+    "Location": "Köln, Deutschland ",
+    "latitude": 50.937531,
+    "longitude": 6.9602786
+  },
+  {
+    "name": "Beverly Hills Art Fair",
+    "radius": 8,
+    "Website": "http://www.beverlyhills.org/",
+    "created_at": 1972,
+    "Location": "Beverly Hills,CA",
+    "latitude": 34.0736204,
+    "longitude": -118.4003563
+  },
+  {
+    "name": "Olympia International Arts and Antiques",
+    "radius": 8,
+    "Website": "http://www.olympiaartsinternational.com/",
+    "created_at": 1972,
+    "Location": "London, United Kingdom",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "Petersfield Fair Art & Antiques",
+    "radius": 8,
+    "Website": "http://www.penman-fairs.co.uk/fairdetails.aspx?fid=5",
+    "created_at": 1973,
+    "Location": "Petersfield,Hampshire",
+    "latitude": 51.007591,
+    "longitude": -0.93899
+  },
+  {
+    "name": "Arte Fiera Bologna",
+    "radius": 8,
+    "Website": "http://www.artefiera.it/home/776.html",
+    "created_at": 1974,
+    "Location": " Bologna, Italy",
+    "latitude": 44.494887,
+    "longitude": 11.3426163
+  },
+  {
+    "name": "American Craft Show, SF",
+    "radius": 8,
+    "Website": "https://craftcouncil.org",
+    "created_at": 1975,
+    "Location": "Minneapolis, Minnesota",
+    "latitude": 44.977753,
+    "longitude": -93.2650108
+  },
+  {
+    "name": "American Craft Coucil Atlanta",
+    "radius": 8,
+    "Website": "https://craftcouncil.org/shows",
+    "created_at": 1975,
+    "Location": "Baltimore, MD",
+    "latitude": 39.2903848,
+    "longitude": -76.6121893
+  },
+  {
+    "name": "American Craft Council Show Baltimore",
+    "radius": 8,
+    "Website": "https://craftcouncil.org/shows/acc/american-craft-show-baltimore-wholesale",
+    "created_at": 1976,
+    "Location": "Baltimore, MD",
+    "latitude": 39.2903848,
+    "longitude": -76.6121893
+  },
+  {
+    "name": "Philadelphia Museum of Art Craft Show",
+    "radius": 8,
+    "Website": "http://www.pmacraftshow.org/",
+    "created_at": 1976,
+    "Location": "Philadelphia, PA",
+    "latitude": 39.9525839,
+    "longitude": -75.1652215
+  },
+  {
+    "name": "Antica Namur",
+    "radius": 8,
+    "Website": "http://www.antica.be/",
+    "created_at": 1976,
+    "Location": "Namur, Belgium",
+    "latitude": 50.4673883,
+    "longitude": 4.8719854
+  },
+  {
+    "name": "Feriaarte",
+    "radius": 8,
+    "Website": "http://www.ifema.es/feriarte_01/",
+    "created_at": 1976,
+    "Location": "Madrid, Spain",
+    "latitude": 40.4167754,
+    "longitude": -3.7037902
+  },
+  {
+    "name": "Stockholm International Antiques Fair",
+    "radius": 8,
+    "Website": "http://www.modernity.se/",
+    "created_at": 1978,
+    "Location": "Stockholm, Sweden",
+    "latitude": 59.3293235,
+    "longitude": 18.0685808
+  },
+  {
+    "name": "Art EXPO New York",
+    "radius": 8,
+    "Website": "http://artexponewyork.com/",
+    "created_at": 1979,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "ARCOmadrid",
+    "radius": 8,
+    "Website": "ARCOmadrid Website",
+    "created_at": 1980,
+    "Location": "Madrid, Spain",
+    "latitude": 40.4167754,
+    "longitude": -3.7037902
+  },
+  {
+    "name": "Baltimore Summer Antiques Show",
+    "radius": 8,
+    "Website": "http://www.baltimoresummershow.com/",
+    "created_at": 1980,
+    "Location": "Baltimore, Maryland",
+    "latitude": 39.2903848,
+    "longitude": -76.6121893
+  },
+  {
+    "name": "London Photography Fair",
+    "radius": 8,
+    "Website": "http://www.photofair.co.uk/",
+    "created_at": 1982,
+    "Location": "Coram Street, London",
+    "latitude": 51.524118,
+    "longitude": -0.1258428
+  },
+  {
+    "name": "The London Photography Fair",
+    "radius": 8,
+    "Website": "www.photofair.co.uk",
+    "created_at": 1982,
+    "Location": "Coram Street, London",
+    "latitude": 51.524118,
+    "longitude": -0.1258428
+  },
+  {
+    "name": "Art Antiques London",
+    "radius": 8,
+    "Website": "http://haughton.com/international-fairs",
+    "created_at": 1982,
+    "Location": "London, England",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "London Photography Fair",
+    "radius": 8,
+    "Website": "www.photofair.co.uk",
+    "created_at": 1982,
+    "Location": "Coram Street, London",
+    "latitude": 51.524118,
+    "longitude": -0.1258428
+  },
+  {
+    "name": "The London Photography Fair",
+    "radius": 8,
+    "Website": "www.photofair.co.uk",
+    "created_at": 1982,
+    "Location": "Coram Street, London",
+    "latitude": 51.524118,
+    "longitude": -0.1258428
+  },
+  {
+    "name": "Brussels non-European Art Fair Summer",
+    "radius": 8,
+    "Website": "http://www.bruneaf.com/",
+    "created_at": 1983,
+    "Location": "Brussels, Belgium",
+    "latitude": 50.8503396,
+    "longitude": 4.3517103
+  },
+  {
+    "name": "Marin Show: Art of the Americas",
+    "radius": 8,
+    "Website": "http://www.marinshow.com/",
+    "created_at": 1984,
+    "Location": "San Rafael, United States",
+    "latitude": 37.9735346,
+    "longitude": -122.5310874
+  },
+  {
+    "name": "The Pier Antiques Show",
+    "radius": 8,
+    "Website": "http://www.pierantiqueshow.com/",
+    "created_at": 1984,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "London Original Print Fair",
+    "radius": 8,
+    "Website": "LOPF Website",
+    "created_at": 1984,
+    "Location": "London, UK",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "Decorative Antiques & Textiles Fair",
+    "radius": 8,
+    "Website": "http://www.decorativefair.com/",
+    "created_at": 1985,
+    "Location": "Church Street. London",
+    "latitude": 51.5227751,
+    "longitude": -0.1712863
+  },
+  {
+    "name": "Decorative Antiquess & Textiles Fair",
+    "radius": 8,
+    "Website": "http://www.decorativefair.com/",
+    "created_at": 1985,
+    "Location": "London, United Kingdom",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "Antiques For Everyone",
+    "radius": 8,
+    "Website": "http://www.antiquesforeveryone.co.uk/",
+    "created_at": 1986,
+    "Location": "Birmingham, United Kingdom",
+    "latitude": 52.486243,
+    "longitude": -1.890401
+  },
+  {
+    "name": "Sarasota Winter Antiques & Art Fair",
+    "radius": 8,
+    "Website": "http://www.sarasotaartandantiques.com/",
+    "created_at": 1987,
+    "Location": "Sarasota, FL ",
+    "latitude": 27.3364347,
+    "longitude": -82.5306527
+  },
+  {
+    "name": "Antiquiaria Ludwigsburg",
+    "radius": 8,
+    "Website": "http://www.antiquaria-ludwigsburg.de/",
+    "created_at": 1987,
+    "Location": "Ludwigsburg, Gremany",
+    "latitude": 48.8940624,
+    "longitude": 9.195464
+  },
+  {
+    "name": "Pan Amsterdam",
+    "radius": 8,
+    "Website": "http://www.pan.nl/DesktopDefault.aspx?tabid=1&lg=en",
+    "created_at": 1987,
+    "Location": "Amsterdam, Netherlands",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679
+  },
+  {
+    "name": "Antiques for Everyone",
+    "radius": 8,
+    "Website": "http://www.antiquesforeveryone.co.uk/",
+    "created_at": 1987,
+    "Location": "London, England",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "TEFAF Maastricht",
+    "radius": 8,
+    "Website": "http://www.tefaf.com/",
+    "created_at": 1988,
+    "Location": "The Netherlands",
+    "latitude": 52.132633,
+    "longitude": 5.291266
+  },
+  {
+    "name": "ADAA | The Art Show",
+    "radius": 8,
+    "Website": "http://artdealers.org/artshow.html",
+    "created_at": 1988,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "Chester Antiques Fair",
+    "radius": 8,
+    "Website": "http://www.penman-fairs.co.uk/",
+    "created_at": 1989,
+    "Location": "Chester, Cheshire",
+    "latitude": 53.193392,
+    "longitude": -2.893075
+  },
+  {
+    "name": "The International Fine Art & Antique Dealers Show",
+    "radius": 8,
+    "Website": "https://www.facebook.com/events/449692901740686/",
+    "created_at": 1989,
+    "Location": "Park Ave Armory. New York, NY",
+    "latitude": 40.7674947,
+    "longitude": -73.9661002
+  },
+  {
+    "name": "Antquarin Book Fair Chelsea",
+    "radius": 8,
+    "Website": "http://www.chelseabookfair.com/",
+    "created_at": 1990,
+    "Location": "Kings Road, London",
+    "latitude": 51.4850694,
+    "longitude": -0.1745647
+  },
+  {
+    "name": "ArtePadova",
+    "radius": 8,
+    "Website": "www.artepadova.com",
+    "created_at": 1990,
+    "Location": "Padova, Italy",
+    "latitude": 45.4064349,
+    "longitude": 11.8767611
+  },
+  {
+    "name": "Photo LA",
+    "radius": 8,
+    "Website": "http://www.photola.com/",
+    "created_at": 1991,
+    "Location": "Los Angeles, CA",
+    "latitude": 34.0522342,
+    "longitude": -118.2436849
+  },
+  {
+    "name": "Salon due Dessin",
+    "radius": 8,
+    "Website": "http://www.salondudessin.com/",
+    "created_at": 1991,
+    "Location": "Paris, France",
+    "latitude": 48.856614,
+    "longitude": 2.3522219
+  },
+  {
+    "name": "arteBA",
+    "radius": 8,
+    "Website": "arteBA Website",
+    "created_at": 1991,
+    "Location": "Buenos Aires, Argentina",
+    "latitude": -34.6036844,
+    "longitude": -58.3815591
+  },
+  {
+    "name": "Art & Antques Fair London",
+    "radius": 8,
+    "Website": "http://www.olympia-antiques.com/",
+    "created_at": 1991,
+    "Location": "Olympia, London",
+    "latitude": 51.4960948,
+    "longitude": -0.211094
+  },
+  {
+    "name": "Winter Fine Arts and Antiques",
+    "radius": 8,
+    "Website": "http://www.olympia-antiques.com/",
+    "created_at": 1991,
+    "Location": "Hammersmith Road, London",
+    "latitude": 51.4936478,
+    "longitude": -0.2158146
+  },
+  {
+    "name": "Art Concept",
+    "radius": 8,
+    "Website": "http://nextlevelfairs.com/concept/",
+    "created_at": 1991,
+    "Location": "Miami, FL",
+    "latitude": 25.7616798,
+    "longitude": -80.1917902
+  },
+  {
+    "name": "Outsider Art Fair",
+    "radius": 8,
+    "Website": "http://www.outsiderartfair.com/",
+    "created_at": 1992,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "Outsider Art Fair Paris",
+    "radius": 8,
+    "Website": "http://outsiderartfair.com/fair/1810",
+    "created_at": 1992,
+    "Location": "Paris, France",
+    "latitude": 48.856614,
+    "longitude": 2.3522219
+  },
+  {
+    "name": "Art Athina",
+    "radius": 8,
+    "Website": "http://www.art-athina.gr/",
+    "created_at": 1993,
+    "Location": "Athens, Greece",
+    "latitude": 37.9838096,
+    "longitude": 23.7275388
+  },
+  {
+    "name": "The Armory Show",
+    "radius": 8,
+    "Website": "TAS Website",
+    "created_at": 1994,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "Art in Clay Pot and Ceramics Festival",
+    "radius": 8,
+    "Website": "http://www.artinclay.co.uk/",
+    "created_at": 1994,
+    "Location": "Nottingham, United Kingdom",
+    "latitude": 52.9547832,
+    "longitude": -1.1581086
+  },
+  {
+    "name": "St. Louis Art Fair",
+    "radius": 8,
+    "Website": "http://www.culturalfestivals.com/",
+    "created_at": 1994,
+    "Location": "St. Louis, MO",
+    "latitude": 38.6105426,
+    "longitude": -90.3371889
+  },
+  {
+    "name": "Kunst Zurich",
+    "radius": 8,
+    "Website": "http://www.kunstzuerich.ch/en/art-fair.html",
+    "created_at": 1994,
+    "Location": " Zürich, Switzerland",
+    "latitude": 47.3768866,
+    "longitude": 8.541694
+  },
+  {
+    "name": "SOFA CHICAGO",
+    "radius": 8,
+    "Website": "http://www.sofaexpo.com/",
+    "created_at": 1994,
+    "Location": "Chicago, Illinois",
+    "latitude": 41.8781136,
+    "longitude": -87.6297982
+  },
+  {
+    "name": "Artissima",
+    "radius": 8,
+    "Website": "Artissima Website",
+    "created_at": 1994,
+    "Location": "Torino, Italy",
+    "latitude": 45.070312,
+    "longitude": 7.6868565
+  },
+  {
+    "name": "Art Palm Springs",
+    "radius": 8,
+    "Website": "http://palmspringsfineartfair.com/",
+    "created_at": 1995,
+    "Location": "Palm Springs, CA",
+    "latitude": 33.8302961,
+    "longitude": -116.5452921
+  },
+  {
+    "name": "Chelsea Art Fair",
+    "radius": 8,
+    "Website": "http://www.chelseaartfair.org/",
+    "created_at": 1995,
+    "Location": "London, United Kingdom",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "100% Design Fair",
+    "radius": 8,
+    "Website": "http://www.100percentdesign.co.uk/",
+    "created_at": 1995,
+    "Location": "London, United Kingdom",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "Art Santa Fe",
+    "radius": 8,
+    "Website": "http://www.artsantafe.com/",
+    "created_at": 1995,
+    "Location": "Santa Fe, NM",
+    "latitude": 35.6869752,
+    "longitude": -105.937799
+  },
+  {
+    "name": "Art Hamptons",
+    "radius": 8,
+    "Website": "http://www.arthamptons.com/",
+    "created_at": 1995,
+    "Location": "Bridgehampton, NY",
+    "latitude": 40.9378777,
+    "longitude": -72.3009158
+  },
+  {
+    "name": "Art Aspen",
+    "radius": 8,
+    "Website": "http://www.art-aspen.com/",
+    "created_at": 1995,
+    "Location": "Aspen, CO",
+    "latitude": 39.1910983,
+    "longitude": -106.8175387
+  },
+  {
+    "name": "Houston Art Fair",
+    "radius": 8,
+    "Website": "http://www.houstonartfair.com/",
+    "created_at": 1995,
+    "Location": "Houston, TX",
+    "latitude": 29.7604267,
+    "longitude": -95.3698028
+  },
+  {
+    "name": "miart",
+    "radius": 8,
+    "Website": "miart Website",
+    "created_at": 1996,
+    "Location": "Milan, Italy",
+    "latitude": 45.4654219,
+    "longitude": 9.1859243
+  },
+  {
+    "name": "LISTE",
+    "radius": 8,
+    "Website": "http://www.liste.ch/",
+    "created_at": 1996,
+    "Location": "Basel, Switzerland",
+    "latitude": 47.5595986,
+    "longitude": 7.5885761
+  },
+  {
+    "name": "Affordable Art Fair New York Autum",
+    "radius": 8,
+    "Website": "http://affordableartfair.com/newyork/",
+    "created_at": 1996,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "Boston Fine Arts Fair",
+    "radius": 8,
+    "Website": "http://www.fineartboston.com/",
+    "created_at": 1996,
+    "Location": "Boston, MA ",
+    "latitude": 42.3600825,
+    "longitude": -71.0588801
+  },
+  {
+    "name": "Art Miami - Palm Beach",
+    "radius": 8,
+    "Website": "http://www.artpbfair.com/",
+    "created_at": 1997,
+    "Location": "West Palm Beach, FL",
+    "latitude": 26.7153424,
+    "longitude": -80.0533746
+  },
+  {
+    "name": "Art Palm Beach",
+    "radius": 8,
+    "Website": "http://nextlevelfairs.com/artpalmbeach/",
+    "created_at": 1997,
+    "Location": "West Palm Beach, FL",
+    "latitude": 26.7153424,
+    "longitude": -80.0533746
+  },
+  {
+    "name": "LA Art Show",
+    "radius": 8,
+    "Website": "http://www.laartshow.com/",
+    "created_at": 1997,
+    "Location": "Los Angeles, CA",
+    "latitude": 34.0522342,
+    "longitude": -118.2436849
+  },
+  {
+    "name": "PAD Paris",
+    "radius": 8,
+    "Website": "https://www.pad-fairs.com/paris/en/",
+    "created_at": 1997,
+    "Location": "Paris, France",
+    "latitude": 48.856614,
+    "longitude": 2.3522219
+  },
+  {
+    "name": "Photo Independent LA",
+    "radius": 8,
+    "Website": "http://photoindependent.com/",
+    "created_at": 1997,
+    "Location": "Hollywood, California",
+    "latitude": 34.0928092,
+    "longitude": -118.3286614
+  },
+  {
+    "name": "IFPDA",
+    "radius": 8,
+    "Website": "IFPDA Website",
+    "created_at": 1997,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "Asian Art in London",
+    "radius": 8,
+    "Website": "http://www.asianartinlondon.com/",
+    "created_at": 1997,
+    "Location": "London, Uk",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "Paris Photo",
+    "radius": 8,
+    "Website": "http://www.parisphoto.com/",
+    "created_at": 1997,
+    "Location": "Paris, France",
+    "latitude": 48.856614,
+    "longitude": 2.3522219
+  },
+  {
+    "name": "Art Innsbruck",
+    "radius": 8,
+    "Website": "http://www.art-innsbruck.com/index.php/de/",
+    "created_at": 1997,
+    "Location": "Innsbruck, Austria",
+    "latitude": 47.2692124,
+    "longitude": 11.4041024
+  },
+  {
+    "name": "Boston Print Fair",
+    "radius": 8,
+    "Website": "http://www.bostondesignweek.com/ad2021",
+    "created_at": 1999,
+    "Location": " Boston, MA",
+    "latitude": 42.3600825,
+    "longitude": -71.0588801
+  },
+  {
+    "name": "New York Ceramics and Glass Fair",
+    "radius": 8,
+    "Website": "http://www.newyorkceramicsandglassfair.com/",
+    "created_at": 1999,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "Affordable Art Fair Brussels",
+    "radius": 8,
+    "Website": "https://affordableartfair.com/fairs/brussels",
+    "created_at": 1999,
+    "Location": "Brussels, Belgum",
+    "latitude": 50.8503396,
+    "longitude": 4.3517103
+  },
+  {
+    "name": "Works On Paper Art Fair",
+    "radius": 8,
+    "Website": "http://www.worksonpaperfair.com/",
+    "created_at": 1999,
+    "Location": "London, UK",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "THAT ART FAIR",
+    "radius": 8,
+    "Website": "http://thatartfair.com/",
+    "created_at": 1999,
+    "Location": "Woodstock, Cape Town",
+    "latitude": -33.9241577,
+    "longitude": 18.4543113
+  },
+  {
+    "name": "Affordable Art Fair",
+    "radius": 8,
+    "Website": "http://affordableartfair.com/newyork/",
+    "created_at": 1999,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "ArtInternational Zurich",
+    "radius": 8,
+    "Website": "https://art-zurich.com/",
+    "created_at": 1999,
+    "Location": "Zurich, Switzerland",
+    "latitude": 47.3768866,
+    "longitude": 8.541694
+  },
+  {
+    "name": "Affordable Art Fair Bristol",
+    "radius": 8,
+    "Website": "https://affordableartfair.com/fairs/bristol",
+    "created_at": 1999,
+    "Location": "London, United Kingdom",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "Affordable Art Fair Seoul",
+    "radius": 8,
+    "Website": "https://affordableartfair.com/fairs/seoul",
+    "created_at": 1999,
+    "Location": "Seoul, South Korea",
+    "latitude": 37.566535,
+    "longitude": 126.9779692
+  },
+  {
+    "name": "Affordable Art Fair Stocklholm",
+    "radius": 8,
+    "Website": "https://affordableartfair.com/fairs/stockholm",
+    "created_at": 1999,
+    "Location": "Stockholm, Sweden",
+    "latitude": 59.3293235,
+    "longitude": 18.0685808
+  },
+  {
+    "name": "Affordable Art Fair Amsterdam",
+    "radius": 8,
+    "Website": "https://affordableartfair.com/fairs/amsterdam",
+    "created_at": 1999,
+    "Location": "Amsterdam, Netherlands",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679
+  },
+  {
+    "name": "Affordable Art Fair Battersea",
+    "radius": 8,
+    "Website": "https://affordableartfair.com/fairs/battersea-spring",
+    "created_at": 1999,
+    "Location": "Battersea Park, London",
+    "latitude": 51.477992,
+    "longitude": -0.14823
+  },
+  {
+    "name": "Affordable Art Fair Hamburg",
+    "radius": 8,
+    "Website": "https://affordableartfair.com/fairs/hamburg",
+    "created_at": 1999,
+    "Location": "Hamburg, Germany",
+    "latitude": 53.5510846,
+    "longitude": 9.9936818
+  },
+  {
+    "name": "Affordable Art Fair Hong Kong",
+    "radius": 8,
+    "Website": "https://affordableartfair.com/fairs/hong-kong",
+    "created_at": 1999,
+    "Location": "Hong Kong",
+    "latitude": 22.396428,
+    "longitude": 114.109497
+  },
+  {
+    "name": "Affordable Art Fair Singapore",
+    "radius": 8,
+    "Website": "https://affordableartfair.com",
+    "created_at": 1999,
+    "Location": "Singapore",
+    "latitude": 1.352083,
+    "longitude": 103.819836
+  },
+  {
+    "name": "Chicago Botanic Antiques and Garden & Design Fair",
+    "radius": 8,
+    "Website": "http://www.chicagobotanic.org/antiques",
+    "created_at": 2000,
+    "Location": "Glencoe, IL",
+    "latitude": 42.1350268,
+    "longitude": -87.7581188
+  },
+  {
+    "name": "Palm Springs Modernism",
+    "radius": 8,
+    "Website": "http://winter.palmspringsmodernism.com/",
+    "created_at": 2000,
+    "Location": "Palm Springs, CA",
+    "latitude": 33.8302961,
+    "longitude": -116.5452921
+  },
+  {
+    "name": "Art Boca Raton",
+    "radius": 8,
+    "Website": "http://nextlevelfairs.com/artbocaraton/",
+    "created_at": 2000,
+    "Location": "Boca Raton, FL",
+    "latitude": 26.3683064,
+    "longitude": -80.1289321
+  },
+  {
+    "name": "Eurantica Brussels",
+    "radius": 8,
+    "Website": "http://www.eurantica.be/",
+    "created_at": 2000,
+    "Location": "Houston, TX",
+    "latitude": 29.7604267,
+    "longitude": -95.3698028
+  },
+  {
+    "name": "Art Brussels",
+    "radius": 8,
+    "Website": "Art Brussels Website",
+    "created_at": 2000,
+    "Location": "Brussels, Belgium",
+    "latitude": 50.8503396,
+    "longitude": 4.3517103
+  },
+  {
+    "name": "Art Medellin",
+    "radius": 8,
+    "Website": "http://www.feriaartmedellin.com/",
+    "created_at": 2000,
+    "Location": "Medellin, Colombia",
+    "latitude": 6.244203,
+    "longitude": -75.5812119
+  },
+  {
+    "name": "Palm Springs Modernism",
+    "radius": 8,
+    "Website": "http://winter.palmspringsmodernism.com/",
+    "created_at": 2000,
+    "Location": "Palm Springs CA",
+    "latitude": 33.8302961,
+    "longitude": -116.5452921
+  },
+  {
+    "name": "Art Toronto",
+    "radius": 8,
+    "Website": "https://www.arttoronto.ca",
+    "created_at": 2000,
+    "Location": "Toronto, Canada",
+    "latitude": 43.653226,
+    "longitude": -79.3831843
+  },
+  {
+    "name": "Art Basel in Miami Beach",
+    "radius": 8,
+    "Website": "Art Basel Miami Beach Website",
+    "created_at": 2001,
+    "Location": "Miami, FL",
+    "latitude": 25.7616798,
+    "longitude": -80.1917902
+  },
+  {
+    "name": "Art Miami - Wynwood",
+    "radius": 8,
+    "Website": "http://www.artwynwood.com/",
+    "created_at": 2001,
+    "Location": "Miami, FL",
+    "latitude": 40.8012334,
+    "longitude": -73.9315687
+  },
+  {
+    "name": "Art Bodensee",
+    "radius": 8,
+    "Website": "https://artbodensee.messedornbirn.at/themen-aussteller/",
+    "created_at": 2001,
+    "Location": "Dornbirn",
+    "latitude": 47.4124,
+    "longitude": 9.74379
+  },
+  {
+    "name": "Salon: Art + Design",
+    "radius": 8,
+    "Website": "Salon Website",
+    "created_at": 2001,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "SCOPE New York",
+    "radius": 8,
+    "Website": "https://scope-art.com/shows/new-york-2016/about/",
+    "created_at": 2002,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "San Francisco Textile and Tribal Arts Show",
+    "radius": 8,
+    "Website": "http://sanfranciscotribalandtextileartshow.com/",
+    "created_at": 2002,
+    "Location": "San Francisco, Ca",
+    "latitude": 37.7749295,
+    "longitude": -122.4194155
+  },
+  {
+    "name": "Parcours Des Mondes",
+    "radius": 8,
+    "Website": "http://www.parcours-des-mondes.com/index.php?lang=en",
+    "created_at": 2002,
+    "Location": "Paris, France",
+    "latitude": 48.856614,
+    "longitude": 2.3522219
+  },
+  {
+    "name": "KIAF",
+    "radius": 8,
+    "Website": "KIAF Website",
+    "created_at": 2002,
+    "Location": "Seoul, Korea",
+    "latitude": 35.907757,
+    "longitude": 127.766922
+  },
+  {
+    "name": "The Antiques and Fine art Show at The Mere",
+    "radius": 8,
+    "Website": "http://www.merefair.com/",
+    "created_at": 2003,
+    "Location": "Knutsford, Cheshire",
+    "latitude": 53.3005939,
+    "longitude": -2.371833
+  },
+  {
+    "name": "Mayfair Art & Antiques",
+    "radius": 8,
+    "Website": "http://www.mayfairfair.com/",
+    "created_at": 2003,
+    "Location": "Duke Street, London",
+    "latitude": 51.5145231,
+    "longitude": -0.1515463
+  },
+  {
+    "name": "Art Osaka",
+    "radius": 8,
+    "Website": "http://www.artosaka.jp/en/",
+    "created_at": 2003,
+    "Location": "Osaka, Japan",
+    "latitude": 34.6937378,
+    "longitude": 135.5021651
+  },
+  {
+    "name": "Art Karlsruhe",
+    "radius": 8,
+    "Website": "https://www.art-karlsruhe.de/website/home/index.jsp",
+    "created_at": 2003,
+    "Location": "Rheinstetten, Deutschland",
+    "latitude": 48.9618109,
+    "longitude": 8.292246
+  },
+  {
+    "name": "Palm Beach Jewerly Art Antiques Fair",
+    "radius": 8,
+    "Website": "http://www.palmbeachshow.com/",
+    "created_at": 2003,
+    "Location": "Palm Beach, FL",
+    "latitude": 26.7056206,
+    "longitude": -80.0364297
+  },
+  {
+    "name": "LOOP Barcelona",
+    "radius": 8,
+    "Website": "LOOP Barcelona Website",
+    "created_at": 2003,
+    "Location": "Barcelona, Spain",
+    "latitude": 41.3850639,
+    "longitude": 2.1734035
+  },
+  {
+    "name": "Frieze Masters",
+    "radius": 8,
+    "Website": "Frieze Masters Website",
+    "created_at": 2003,
+    "Location": "London, UK",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "Art.Fair Cologne",
+    "radius": 8,
+    "Website": "http://www.art-fair.de/",
+    "created_at": 2003,
+    "Location": "Cologne, Germany",
+    "latitude": 50.937531,
+    "longitude": 6.9602786
+  },
+  {
+    "name": "Basel Ancient Art Fair",
+    "radius": 8,
+    "Website": "http://www.baaf.ch/home-2/",
+    "created_at": 2003,
+    "Location": "Riehen, Switzerland",
+    "latitude": 47.5848274,
+    "longitude": 7.6499111
+  },
+  {
+    "name": "SCOPE",
+    "radius": 8,
+    "Website": "http://www.scope-art.com/",
+    "created_at": 2004,
+    "Location": "Miami Beach, FL",
+    "latitude": 25.790654,
+    "longitude": -80.1300455
+  },
+  {
+    "name": "London Art Fair",
+    "radius": 8,
+    "Website": "London Art Fair Website",
+    "created_at": 2004,
+    "Location": "London, UK",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "Zsona MACO",
+    "radius": 8,
+    "Website": "Zsona Maco Website",
+    "created_at": 2004,
+    "Location": "Mexico City, ME",
+    "latitude": 44.5571093,
+    "longitude": -70.5433579
+  },
+  {
+    "name": "Collect: The International Art Fair for Contemporary Objects",
+    "radius": 8,
+    "Website": "Collect Art Fair",
+    "created_at": 2004,
+    "Location": "London, UK",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "Zona Foto and Anticuario",
+    "radius": 8,
+    "Website": "Zona Foto and Anticularo Website",
+    "created_at": 2004,
+    "Location": "Mexico City",
+    "latitude": 19.4326077,
+    "longitude": -99.133208
+  },
+  {
+    "name": "Art Verona",
+    "radius": 8,
+    "Website": "http://www.artverona.it/en/home-en/",
+    "created_at": 2004,
+    "Location": "VErona, Italy",
+    "latitude": 45.4383842,
+    "longitude": 10.9916215
+  },
+  {
+    "name": "ArtBO",
+    "radius": 8,
+    "Website": "ArtBO Website",
+    "created_at": 2004,
+    "Location": "Bogota, Colombia",
+    "latitude": 4.7109886,
+    "longitude": -74.072092
+  },
+  {
+    "name": "ArtUP!",
+    "radius": 8,
+    "Website": "http://www.artup.org/",
+    "created_at": 2005,
+    "Location": "Baltimore, MD",
+    "latitude": 39.2903848,
+    "longitude": -76.6121893
+  },
+  {
+    "name": "Volta NY",
+    "radius": 8,
+    "Website": "http://www.voltashow.com/",
+    "created_at": 2005,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "Volta Basel",
+    "radius": 8,
+    "Website": "http://voltashow.com/",
+    "created_at": 2005,
+    "Location": "Basel, Switzerland",
+    "latitude": 47.5595986,
+    "longitude": 7.5885761
+  },
+  {
+    "name": "Design Miami/ Basel",
+    "radius": 8,
+    "Website": "Design Miami/ Basel Website",
+    "created_at": 2005,
+    "Location": "Basel, Switzerland",
+    "latitude": 47.5595986,
+    "longitude": 7.5885761
+  },
+  {
+    "name": "SP-Arte Photo",
+    "radius": 8,
+    "Website": "http://www.sp-arte.com/",
+    "created_at": 2005,
+    "Location": "São Paulo, Brazil",
+    "latitude": -23.5505199,
+    "longitude": -46.6333094
+  },
+  {
+    "name": "Contemporary Istanbul",
+    "radius": 8,
+    "Website": "http://www.contemporaryistanbul.com/",
+    "created_at": 2005,
+    "Location": "Istanbul, Turkey",
+    "latitude": 41.0082376,
+    "longitude": 28.9783589
+  },
+  {
+    "name": "ABC Berlin",
+    "radius": 8,
+    "Website": "http://www.artberlincontemporary.com/",
+    "created_at": 2005,
+    "Location": "Berlin, Germany",
+    "latitude": 52.5200066,
+    "longitude": 13.404954
+  },
+  {
+    "name": "Viennafair",
+    "radius": 8,
+    "Website": "http://www.viennafair.at/",
+    "created_at": 2005,
+    "Location": "Vienna Austria",
+    "latitude": 48.2081743,
+    "longitude": 16.3738189
+  },
+  {
+    "name": "Edinburgh Art Fair",
+    "radius": 8,
+    "Website": "http://www.artedinburgh.com/",
+    "created_at": 2005,
+    "Location": "Edinburgh,Scotland",
+    "latitude": 55.953252,
+    "longitude": -3.188267
+  },
+  {
+    "name": "Art Miami",
+    "radius": 8,
+    "Website": "Art Miami Website",
+    "created_at": 2005,
+    "Location": "Miami, FL",
+    "latitude": 25.7616798,
+    "longitude": -80.1917902
+  },
+  {
+    "name": "PULSE Miami Beach",
+    "radius": 8,
+    "Website": "PULSE Miami Beach Website",
+    "created_at": 2005,
+    "Location": "Miami, FL",
+    "latitude": 25.7616798,
+    "longitude": -80.1917902
+  },
+  {
+    "name": "Art Miami - Acqua Miami",
+    "radius": 8,
+    "Website": "http://www.aquaartmiami.com/",
+    "created_at": 2005,
+    "Location": "Miami Beach, FL",
+    "latitude": 25.790654,
+    "longitude": -80.1300455
+  },
+  {
+    "name": "Design Miami/",
+    "radius": 8,
+    "Website": "Design Miami/ Website",
+    "created_at": 2005,
+    "Location": "Miami, FL",
+    "latitude": 25.7616798,
+    "longitude": -80.1917902
+  },
+  {
+    "name": "Arte Genova",
+    "radius": 8,
+    "Website": "http://www.artegenova.com/",
+    "created_at": 2006,
+    "Location": "Genoa, italy",
+    "latitude": 44.4056499,
+    "longitude": 8.946256
+  },
+  {
+    "name": "AIPAD",
+    "radius": 8,
+    "Website": "AIPAD Website",
+    "created_at": 2006,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "Art Beijing",
+    "radius": 8,
+    "Website": "http://www.artbeijing.net/",
+    "created_at": 2006,
+    "Location": "Beijing, China",
+    "latitude": 39.904211,
+    "longitude": 116.407395
+  },
+  {
+    "name": "MARKET Art Fair Stockholm",
+    "radius": 8,
+    "Website": "http://marketartfair.com/",
+    "created_at": 2006,
+    "Location": "Stockholm, Sweden",
+    "latitude": 59.3293235,
+    "longitude": 18.0685808
+  },
+  {
+    "name": "Selection Art Fair",
+    "radius": 8,
+    "Website": "http://www.selection-art.com/",
+    "created_at": 2006,
+    "Location": "Basel, Switzerland",
+    "latitude": 47.5595986,
+    "longitude": 7.5885761
+  },
+  {
+    "name": "Asia Contemporary art show",
+    "radius": 8,
+    "Website": "http://www.asiacontemporaryart.com/",
+    "created_at": 2006,
+    "Location": "Hong Kong",
+    "latitude": 22.396428,
+    "longitude": 114.109497
+  },
+  {
+    "name": "SWAB Barcelona Art Fair",
+    "radius": 8,
+    "Website": "http://swab.es/",
+    "created_at": 2006,
+    "Location": "Barcelona, Spain",
+    "latitude": 41.3850639,
+    "longitude": 2.1734035
+  },
+  {
+    "name": "Fine Art Asia",
+    "radius": 8,
+    "Website": "http://www.fineartasia.com/",
+    "created_at": 2006,
+    "Location": "Hong Kong",
+    "latitude": 22.396428,
+    "longitude": 114.109497
+  },
+  {
+    "name": "PAD London",
+    "radius": 8,
+    "Website": "https://www.pad-fairs.com/london/",
+    "created_at": 2006,
+    "Location": "Paris, France",
+    "latitude": 48.856614,
+    "longitude": 2.3522219
+  },
+  {
+    "name": "SLICK Art Fair",
+    "radius": 8,
+    "Website": "www.slickartfair.com/en",
+    "created_at": 2006,
+    "Location": "Paris, France",
+    "latitude": 48.856614,
+    "longitude": 2.3522219
+  },
+  {
+    "name": "Accessible Art Fair",
+    "radius": 8,
+    "Website": "http://www.accessibleartfair.com/",
+    "created_at": 2006,
+    "Location": "New York, New York",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "MAG Switzerland",
+    "radius": 8,
+    "Website": "http://www.mag-swiss.com/",
+    "created_at": 2006,
+    "Location": "Montreux",
+    "latitude": 46.4312213,
+    "longitude": 6.9106799
+  },
+  {
+    "name": "Ink Miami",
+    "radius": 8,
+    "Website": "http://www.inkartfair.com/",
+    "created_at": 2006,
+    "Location": "Miami Beach, FL",
+    "latitude": 25.790654,
+    "longitude": -80.1300455
+  },
+  {
+    "name": "Red Dot Miami",
+    "radius": 8,
+    "Website": "http://reddotmiami.com/",
+    "created_at": 2006,
+    "Location": "Miami, FL",
+    "latitude": 25.7616798,
+    "longitude": -80.1917902
+  },
+  {
+    "name": "AD 20/21: 20th and 21st Design Fair",
+    "radius": 8,
+    "Website": "http://www.ad2021.com/",
+    "created_at": 2007,
+    "Location": "Boston, MA",
+    "latitude": 42.3600825,
+    "longitude": -71.0588801
+  },
+  {
+    "name": "Houston Antiques and Art Show Spring",
+    "radius": 8,
+    "Website": "http://spring.houstonantiquesartdesign.com/",
+    "created_at": 2007,
+    "Location": "Houston, TX",
+    "latitude": 29.7604267,
+    "longitude": -95.3698028
+  },
+  {
+    "name": "Young Art Taipei",
+    "radius": 8,
+    "Website": "http://www.youngarttaipei.com/",
+    "created_at": 2007,
+    "Location": "Taipei, Taiwan",
+    "latitude": 25.0329636,
+    "longitude": 121.5654268
+  },
+  {
+    "name": "Salon International de L'Estampeet Du Dessin",
+    "radius": 8,
+    "Website": "http://www.salondelestampeparis.fr/articles.php?artID=23",
+    "created_at": 2007,
+    "Location": "Paris, France",
+    "latitude": 48.856614,
+    "longitude": 2.3522219
+  },
+  {
+    "name": "LA 20/21 20th and 21st century Design",
+    "radius": 8,
+    "Website": "http://www.ad2021.com/",
+    "created_at": 2007,
+    "Location": "Boston, Massachusetts",
+    "latitude": 42.3600825,
+    "longitude": -71.0588801
+  },
+  {
+    "name": "art-o-rama",
+    "radius": 8,
+    "Website": "http://art-o-rama.fr/en",
+    "created_at": 2007,
+    "Location": "Marseille, France",
+    "latitude": 43.296482,
+    "longitude": 5.36978
+  },
+  {
+    "name": "Tribal Art London",
+    "radius": 8,
+    "Website": "http://tribalartlondon.com/",
+    "created_at": 2007,
+    "Location": "London, United Kingdom",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "Art Expo Malasia Plus",
+    "radius": 8,
+    "Website": "http://artexpomalaysia.com/",
+    "created_at": 2007,
+    "Location": "Kuala Lumpur, Malaysia",
+    "latitude": 3.139003,
+    "longitude": 101.686855
+  },
+  {
+    "name": "Art Expo Malaysia",
+    "radius": 8,
+    "Website": "http://artexpomalaysia.com/",
+    "created_at": 2007,
+    "Location": "Kuala Lumpur, Malaysia",
+    "latitude": 3.139003,
+    "longitude": 101.686855
+  },
+  {
+    "name": "Crossroads London",
+    "radius": 8,
+    "Website": "http://crossroadsart.net/",
+    "created_at": 2007,
+    "Location": "London, United Kingdom",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "AKAA",
+    "radius": 8,
+    "Website": "http://akaafair.com/en/",
+    "created_at": 2007,
+    "Location": "Paris, France",
+    "latitude": 48.856614,
+    "longitude": 2.3522219
+  },
+  {
+    "name": "Abu Dhabi Art",
+    "radius": 8,
+    "Website": "Abu Dhabi Art Website",
+    "created_at": 2007,
+    "Location": "Abu Dhabi, UAE",
+    "latitude": 24.453884,
+    "longitude": 54.3773438
+  },
+  {
+    "name": "India Art",
+    "radius": 8,
+    "Website": "India Art Fair Website",
+    "created_at": 2008,
+    "Location": "New Delhi, India",
+    "latitude": 28.6139391,
+    "longitude": 77.2090212
+  },
+  {
+    "name": "Artist Project Toronto",
+    "radius": 8,
+    "Website": "http://www.theartistproject.com/",
+    "created_at": 2008,
+    "Location": "Toronto, CA",
+    "latitude": 43.653226,
+    "longitude": -79.3831843
+  },
+  {
+    "name": "GRANPALAZZO",
+    "radius": 8,
+    "Website": "http://www.granpalazzo.org/",
+    "created_at": 2008,
+    "Location": "Palazzo Rospigliosi, Zagarolo",
+    "latitude": 41.9027835,
+    "longitude": 12.4963655
+  },
+  {
+    "name": "The Solo Project",
+    "radius": 8,
+    "Website": "http://www.the-solo-project.com/",
+    "created_at": 2008,
+    "Location": "Basel, Switzerland",
+    "latitude": 47.5595986,
+    "longitude": 7.5885761
+  },
+  {
+    "name": "FNB Joburg",
+    "radius": 8,
+    "Website": "FNB Joburg Website",
+    "created_at": 2008,
+    "Location": "Johannesburg, South Africa",
+    "latitude": -26.2041028,
+    "longitude": 28.0473051
+  },
+  {
+    "name": "Buy Art Fair",
+    "radius": 8,
+    "Website": "http://www.buyartfair.co.uk/",
+    "created_at": 2008,
+    "Location": "Manchester, United Kingdom",
+    "latitude": 53.4807593,
+    "longitude": -2.2426305
+  },
+  {
+    "name": "Estherhall Antiques and Fine Art Fair",
+    "radius": 8,
+    "Website": "http://www.esherhallfair.com/fair.php#venue",
+    "created_at": 2008,
+    "Location": "Esher, Surrey",
+    "latitude": 51.369487,
+    "longitude": -0.365927
+  },
+  {
+    "name": "Art Monaco",
+    "radius": 8,
+    "Website": "http://artemonaco.com/",
+    "created_at": 2008,
+    "Location": "5 avenue des Ligueres, Monaco",
+    "latitude": 43.7259584,
+    "longitude": 7.4180551
+  },
+  {
+    "name": "American Art Fair",
+    "radius": 8,
+    "Website": "http://www.theamericanartfair.com/",
+    "created_at": 2008,
+    "Location": "New York, New York",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "Art Los Angeles Contemporary",
+    "radius": 8,
+    "Website": "http://artlosangelesfair.com/",
+    "created_at": 2009,
+    "Location": "Santa Monica, CA",
+    "latitude": 34.0194543,
+    "longitude": -118.4911912
+  },
+  {
+    "name": "Setup arts fair Bologna",
+    "radius": 8,
+    "Website": "http://www.setupcontemporaryart.com/2017/en/",
+    "created_at": 2009,
+    "Location": "Bologna, Italy",
+    "latitude": 44.494887,
+    "longitude": 11.3426163
+  },
+  {
+    "name": "Art Dubai",
+    "radius": 8,
+    "Website": "http://artdubai.ae/",
+    "created_at": 2009,
+    "Location": "Dubai",
+    "latitude": 25.2048493,
+    "longitude": 55.2707828
+  },
+  {
+    "name": "Dallas Art Fair",
+    "radius": 8,
+    "Website": "DAF Website",
+    "created_at": 2009,
+    "Location": "Dallas, TX",
+    "latitude": 32.7766642,
+    "longitude": -96.7969879
+  },
+  {
+    "name": "1:54 Contemporary African Art Fair New York",
+    "radius": 8,
+    "Website": "http://1-54.com/london/154-new-york-is-back-5-7-may-2017/",
+    "created_at": 2009,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "Vilnius Art Fair",
+    "radius": 8,
+    "Website": "http://www.artvilnius.com/artvilnius17",
+    "created_at": 2009,
+    "Location": "Vilnius, Lithuania",
+    "latitude": 54.6871555,
+    "longitude": 25.2796514
+  },
+  {
+    "name": "Bazaar Art Jakarta",
+    "radius": 8,
+    "Website": "http://bazaar.artjakarta.com/",
+    "created_at": 2009,
+    "Location": "jakarta, Indonesia",
+    "latitude": -6.2250138,
+    "longitude": 106.9004472
+  },
+  {
+    "name": "LAPADA Arts & Antiques",
+    "radius": 8,
+    "Website": "http://www.lapadalondon.com/",
+    "created_at": 2009,
+    "Location": "London, United Kingdom",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "ArtRio",
+    "radius": 8,
+    "Website": "ArtRio Website",
+    "created_at": 2009,
+    "Location": "Rio de Janiero, Brazil",
+    "latitude": -22.9068467,
+    "longitude": -43.1728965
+  },
+  {
+    "name": "Manchester Contemporary",
+    "radius": 8,
+    "Website": "http://www.themanchestercontemporary.co.uk/",
+    "created_at": 2009,
+    "Location": "Manchester, United Kingdom",
+    "latitude": 53.4807593,
+    "longitude": -2.2426305
+  },
+  {
+    "name": "Moniker Art Fair",
+    "radius": 8,
+    "Website": "http://monikerartfair.com/",
+    "created_at": 2009,
+    "Location": "London, Uk",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "Art Elysées",
+    "radius": 8,
+    "Website": "www.artelysees.fr/en/",
+    "created_at": 2009,
+    "Location": "Paris, France",
+    "latitude": 48.856614,
+    "longitude": 2.3522219
+  },
+  {
+    "name": "CHACO Chile",
+    "radius": 8,
+    "Website": "http://www.feriachaco.cl/",
+    "created_at": 2009,
+    "Location": "Santiago, Chile",
+    "latitude": -33.4378305,
+    "longitude": -70.6504492
+  },
+  {
+    "name": "Art San Diego",
+    "radius": 8,
+    "Website": "http://art-sandiego.com/",
+    "created_at": 2009,
+    "Location": "San Diego, CA",
+    "latitude": 32.715738,
+    "longitude": -117.1610838
+  },
+  {
+    "name": "Art Stage Singapore",
+    "radius": 8,
+    "Website": "Art Stage Singapore Website",
+    "created_at": 2010,
+    "Location": "Singapore",
+    "latitude": 1.352083,
+    "longitude": 103.819836
+  },
+  {
+    "name": "Design Shanghai",
+    "radius": 8,
+    "Website": "http://www.designshanghai.com/",
+    "created_at": 2010,
+    "Location": "Shaghai, China",
+    "latitude": 31.230416,
+    "longitude": 121.473701
+  },
+  {
+    "name": "Independent New York",
+    "radius": 8,
+    "Website": "Independent NEW YORK Website",
+    "created_at": 2010,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "Design Days Dubai",
+    "radius": 8,
+    "Website": "Design Days Dubai Website",
+    "created_at": 2010,
+    "Location": "Dubai, UAE",
+    "latitude": 25.2048493,
+    "longitude": 55.2707828
+  },
+  {
+    "name": "Tokyo Art Fair",
+    "radius": 8,
+    "Website": "http://www.tokyoartfair.com/",
+    "created_at": 2010,
+    "Location": "Tokyo, Japan",
+    "latitude": 35.7090259,
+    "longitude": 139.7319925
+  },
+  {
+    "name": "Masterpiece London",
+    "radius": 8,
+    "Website": "http://www.masterpiecefair.com/",
+    "created_at": 2010,
+    "Location": "London, UK",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "Lima Photo",
+    "radius": 8,
+    "Website": "https://www.facebook.com/events/224948381235108/",
+    "created_at": 2010,
+    "Location": "Lima, Peru",
+    "latitude": -12.046374,
+    "longitude": -77.0427934
+  },
+  {
+    "name": "Art Beirut",
+    "radius": 8,
+    "Website": "https://www.beirut-art-fair.com/",
+    "created_at": 2010,
+    "Location": "Beirut, Lebanon",
+    "latitude": 33.8886106,
+    "longitude": 35.4954772
+  },
+  {
+    "name": "SUNDAY Art Fair",
+    "radius": 8,
+    "Website": "SUNDAY Art Fair Website",
+    "created_at": 2010,
+    "Location": "London, UK",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "Miami Interntional art Fair",
+    "radius": 8,
+    "Website": "http://www.mia-artfair.com/",
+    "created_at": 2010,
+    "Location": "Miami, FL",
+    "latitude": 25.7616798,
+    "longitude": -80.1917902
+  },
+  {
+    "name": "Rotterdam Contemporary Art Fair",
+    "radius": 8,
+    "Website": "http://www.rcartfair.com/",
+    "created_at": 2011,
+    "Location": "Rotterdam, The Netherlands",
+    "latitude": 51.9244201,
+    "longitude": 4.4777325
+  },
+  {
+    "name": "Salon Zurcher NY",
+    "radius": 8,
+    "Website": "http://www.galeriezurcher.com/spip.php?page=rubrique&id_rubrique=62",
+    "created_at": 2011,
+    "Location": "Brooklyn, New York",
+    "latitude": 40.6781784,
+    "longitude": -73.9441579
+  },
+  {
+    "name": "Moving Image",
+    "radius": 8,
+    "Website": "http://www.moving-image.info/",
+    "created_at": 2011,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "Off Course Brussels",
+    "radius": 8,
+    "Website": "http://www.offcourseartfair.com/",
+    "created_at": 2011,
+    "Location": "Brussels, Belgium",
+    "latitude": 50.8503396,
+    "longitude": 4.3517103
+  },
+  {
+    "name": "Art Market San Francisco",
+    "radius": 8,
+    "Website": "http://artmarketsf.com/",
+    "created_at": 2011,
+    "Location": "San Francisco, CA",
+    "latitude": 37.7749295,
+    "longitude": -122.4194155
+  },
+  {
+    "name": "MIA Milan Image Art Fair",
+    "radius": 8,
+    "Website": "http://www.miafair.it/milano/",
+    "created_at": 2011,
+    "Location": " Milan, Italy",
+    "latitude": 45.4654219,
+    "longitude": 9.1859243
+  },
+  {
+    "name": "G-Seoul",
+    "radius": 8,
+    "Website": "http://www.g-seoul.com/",
+    "created_at": 2011,
+    "Location": "Seoul, Korea",
+    "latitude": 35.907757,
+    "longitude": 127.766922
+  },
+  {
+    "name": "Art Revolution Taipei",
+    "radius": 8,
+    "Website": "http://www.arts.org.tw/2016/eng/programs.html",
+    "created_at": 2011,
+    "Location": "Taipei, Taiwan",
+    "latitude": 25.0329636,
+    "longitude": 121.5654268
+  },
+  {
+    "name": "Spring Masters",
+    "radius": 8,
+    "Website": "http://www.springmasters.nyc/",
+    "created_at": 2011,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "Flux Art Fair",
+    "radius": 8,
+    "Website": "http://fluxfair.nyc/",
+    "created_at": 2011,
+    "Location": "HARLEM, NY",
+    "latitude": 40.8115504,
+    "longitude": -73.9464769
+  },
+  {
+    "name": "Antiques & Fine Art Fair at Harewood House",
+    "radius": 8,
+    "Website": "http://www.harewoodfair.com/",
+    "created_at": 2011,
+    "Location": "Leeds, England",
+    "latitude": 53.8007554,
+    "longitude": -1.5490774
+  },
+  {
+    "name": "Art Market Hamptons",
+    "radius": 8,
+    "Website": "Art Market Hamptons Website",
+    "created_at": 2011,
+    "Location": "Bridgehampton, NY",
+    "latitude": 40.9378777,
+    "longitude": -72.3009158
+  },
+  {
+    "name": "Art Southampton",
+    "radius": 8,
+    "Website": "Art Southampton Website",
+    "created_at": 2011,
+    "Location": "Southamptons, NY",
+    "latitude": 40.884267,
+    "longitude": -72.3895296
+  },
+  {
+    "name": "Art Expo Chicago",
+    "radius": 8,
+    "Website": "http://expochicago.com/",
+    "created_at": 2011,
+    "Location": "Chicago, IL",
+    "latitude": 41.8781136,
+    "longitude": -87.6297982
+  },
+  {
+    "name": "Texas Contemporary",
+    "radius": 8,
+    "Website": "Texa Contemporary Website",
+    "created_at": 2011,
+    "Location": "Houston, Texas",
+    "latitude": 29.7604267,
+    "longitude": -95.3698028
+  },
+  {
+    "name": "Fotofever Paris",
+    "radius": 8,
+    "Website": "http://www.fotofeverartfair.com/en-38-about.html",
+    "created_at": 2011,
+    "Location": "Paris, France",
+    "latitude": 48.856614,
+    "longitude": 2.3522219
+  },
+  {
+    "name": "Chester Arts Fair",
+    "radius": 8,
+    "Website": "www.chesterartsfair.co.uk/",
+    "created_at": 2011,
+    "Location": "Chester,England",
+    "latitude": 53.193392,
+    "longitude": -2.893075
+  },
+  {
+    "name": "Satelite Art Fair",
+    "radius": 8,
+    "Website": "http://satellite-show.com/",
+    "created_at": 2011,
+    "Location": "Miami Beach, FL",
+    "latitude": 25.790654,
+    "longitude": -80.1300455
+  },
+  {
+    "name": "Miami Project",
+    "radius": 8,
+    "Website": "Miami Project Website",
+    "created_at": 2011,
+    "Location": "Miami, FL",
+    "latitude": 25.7616798,
+    "longitude": -80.1917902
+  },
+  {
+    "name": "NADA New York",
+    "radius": 8,
+    "Website": "https://www.newartdealers.org/",
+    "created_at": 2012,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "NADA New York",
+    "radius": 8,
+    "Website": "https://www.newartdealers.org/",
+    "created_at": 2012,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "PaRC Peru",
+    "radius": 8,
+    "Website": "http://www.parc.com.pe/",
+    "created_at": 2012,
+    "Location": "Lima, Peru",
+    "latitude": -12.046374,
+    "longitude": -77.0427934
+  },
+  {
+    "name": "Naples jewlery Antiques and Art Fair",
+    "radius": 8,
+    "Website": "http://www.naplesshow.com/",
+    "created_at": 2012,
+    "Location": "Naples, FL",
+    "latitude": 26.1420358,
+    "longitude": -81.7948103
+  },
+  {
+    "name": "SPRING/BREAK Art Show",
+    "radius": 8,
+    "Website": "SPRING/BREAK Website",
+    "created_at": 2012,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "UNTITLED San Francisco",
+    "radius": 8,
+    "Website": "https://art-untitled.com/san-francisco",
+    "created_at": 2012,
+    "Location": "San Francisco, CA",
+    "latitude": 37.7749295,
+    "longitude": -122.4194155
+  },
+  {
+    "name": "Photo Fairs | San Francisco",
+    "radius": 8,
+    "Website": "http://photofairs.org/sanfrancisco/",
+    "created_at": 2012,
+    "Location": "San Francisco, CA",
+    "latitude": 37.7749295,
+    "longitude": -122.4194155
+  },
+  {
+    "name": "Artgeneve",
+    "radius": 8,
+    "Website": "Artgeneve Website",
+    "created_at": 2012,
+    "Location": "Geneva, Switzerland",
+    "latitude": 46.2043907,
+    "longitude": 6.1431577
+  },
+  {
+    "name": "Cape Town Art Fair",
+    "radius": 8,
+    "Website": "Cape Town Art fair Website",
+    "created_at": 2012,
+    "Location": "Cape Town, South Africa",
+    "latitude": -33.9248685,
+    "longitude": 18.4240553
+  },
+  {
+    "name": "Petersfield fair Winter",
+    "radius": 8,
+    "Website": "http://www.petersfieldfest.com/wp/petersfield-christmas-festival-market/",
+    "created_at": 2012,
+    "Location": "Petersfield,UK",
+    "latitude": 51.007591,
+    "longitude": -0.93899
+  },
+  {
+    "name": "New City Art Fair",
+    "radius": 8,
+    "Website": "http://www.newcityartfair.com/",
+    "created_at": 2012,
+    "Location": "Tribeca, NY",
+    "latitude": 40.7162692,
+    "longitude": -74.0086323
+  },
+  {
+    "name": "Art Paris",
+    "radius": 8,
+    "Website": "Art Paris Website",
+    "created_at": 2012,
+    "Location": "Paris, France",
+    "latitude": 48.856614,
+    "longitude": 2.3522219
+  },
+  {
+    "name": "SP-Arte",
+    "radius": 8,
+    "Website": "SP-Arte Website",
+    "created_at": 2012,
+    "Location": "Sao Paulo, Brazil",
+    "latitude": -23.5505199,
+    "longitude": -46.6333094
+  },
+  {
+    "name": "Collective Design Fair",
+    "radius": 8,
+    "Website": "Collective Design Website",
+    "created_at": 2012,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "Art Miami - CONTEXT New York",
+    "radius": 8,
+    "Website": "http://www.contextartmiami.com/",
+    "created_at": 2012,
+    "Location": "Miami, FL",
+    "latitude": 25.7616798,
+    "longitude": -80.1917902
+  },
+  {
+    "name": "Art Busan",
+    "radius": 8,
+    "Website": "http://artbusankorea.com/2017_summary/index.html?ckattempt=1",
+    "created_at": 2012,
+    "Location": "Busan, South Korea",
+    "latitude": 35.1795543,
+    "longitude": 129.0756416
+  },
+  {
+    "name": "Ineverread Book Fair",
+    "radius": 8,
+    "Website": "http://www.ineverread.com/",
+    "created_at": 2012,
+    "Location": "Basel, Switzerland",
+    "latitude": 47.5595986,
+    "longitude": 7.5885761
+  },
+  {
+    "name": "SCOPE Basel",
+    "radius": 8,
+    "Website": "https://scope-art.com/",
+    "created_at": 2012,
+    "Location": "Miami Beach, Florida",
+    "latitude": 25.790654,
+    "longitude": -80.1300455
+  },
+  {
+    "name": "Cosmoscow",
+    "radius": 8,
+    "Website": "Cosmoscow Website",
+    "created_at": 2012,
+    "Location": "Moscow, Russia",
+    "latitude": 55.755826,
+    "longitude": 37.6173
+  },
+  {
+    "name": "Sydney Contemporary",
+    "radius": 8,
+    "Website": "http://sydneycontemporary.com.au/",
+    "created_at": 2012,
+    "Location": "Sydney, Australia",
+    "latitude": -33.8688197,
+    "longitude": 151.2092955
+  },
+  {
+    "name": "Amsterdam Drawing",
+    "radius": 8,
+    "Website": "http://www.amsterdamdrawing.nl/",
+    "created_at": 2012,
+    "Location": "Amsterdam, Netherlands",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679
+  },
+  {
+    "name": "Unseen Photo Fair",
+    "radius": 8,
+    "Website": "Unseen Website",
+    "created_at": 2012,
+    "Location": "Amsterdam, Netherlands",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679
+  },
+  {
+    "name": "Frieze London",
+    "radius": 8,
+    "Website": "Frieze London Website",
+    "created_at": 2012,
+    "Location": "London, UK",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "Photissima",
+    "radius": 8,
+    "Website": "http://www.photissima.it",
+    "created_at": 2012,
+    "Location": "Turin, Italy",
+    "latitude": 45.070312,
+    "longitude": 7.6868565
+  },
+  {
+    "name": "Private Choice Paris",
+    "radius": 8,
+    "Website": "http://www.privatechoice.fr/",
+    "created_at": 2012,
+    "Location": "Paris, France",
+    "latitude": 48.856614,
+    "longitude": 2.3522219
+  },
+  {
+    "name": "CONTEXT Miami",
+    "radius": 8,
+    "Website": "http://www.contextartmiami.com/",
+    "created_at": 2012,
+    "Location": "Miami, FL",
+    "latitude": 25.7616798,
+    "longitude": -80.1917902
+  },
+  {
+    "name": "UNTITLED.",
+    "radius": 8,
+    "Website": "UNTITLED. Website",
+    "created_at": 2012,
+    "Location": "Miami, FL",
+    "latitude": 25.7616798,
+    "longitude": -80.1917902
+  },
+  {
+    "name": "Art Basel in Hong Kong",
+    "radius": 8,
+    "Website": "ABHK Website",
+    "created_at": 2013,
+    "Location": "Hong Kong",
+    "latitude": 22.396428,
+    "longitude": 114.109497
+  },
+  {
+    "name": "FOG Design+Art",
+    "radius": 8,
+    "Website": "FOG Website",
+    "created_at": 2013,
+    "Location": "San Francisco, CA",
+    "latitude": 37.7749295,
+    "longitude": -122.4194155
+  },
+  {
+    "name": "The Pier Antiques Show",
+    "radius": 8,
+    "Website": "http://www.pierantiqueshow.com/",
+    "created_at": 2013,
+    "Location": "Pier 94, New York",
+    "latitude": 40.9802886,
+    "longitude": -72.6097061
+  },
+  {
+    "name": "Art Rotterdam",
+    "radius": 8,
+    "Website": "http://www.artrotterdam.com/users/128/content/home/index.html",
+    "created_at": 2013,
+    "Location": "Rotterdam, Netherlands",
+    "latitude": 51.9244201,
+    "longitude": 4.4777325
+  },
+  {
+    "name": "Art Fair Phillipines",
+    "radius": 8,
+    "Website": "http://artfairphilippines.com/en/",
+    "created_at": 2013,
+    "Location": "MAKATI CITY, Philippines",
+    "latitude": 14.554729,
+    "longitude": 121.0244452
+  },
+  {
+    "name": "Art Ankara",
+    "radius": 8,
+    "Website": "http://www.artfairankara.com/en/",
+    "created_at": 2013,
+    "Location": "Ankara, Turkey",
+    "latitude": 39.9333635,
+    "longitude": 32.8597419
+  },
+  {
+    "name": "Art Lima",
+    "radius": 8,
+    "Website": "http://artlima.pe/",
+    "created_at": 2013,
+    "Location": "Guerra del, Peru",
+    "latitude": -11.9517947,
+    "longitude": -76.9844465
+  },
+  {
+    "name": "Fridge Art Fair",
+    "radius": 8,
+    "Website": "http://www.fridgeartfair.com/",
+    "created_at": 2013,
+    "Location": "Miami Beach, FL",
+    "latitude": 25.790654,
+    "longitude": -80.1300455
+  },
+  {
+    "name": "Turbine Art Fair",
+    "radius": 8,
+    "Website": "http://www.turbineartfair.co.za/",
+    "created_at": 2013,
+    "Location": "Johannesburg, South Africa",
+    "latitude": -26.2041028,
+    "longitude": 28.0473051
+  },
+  {
+    "name": "CHART Art Fair",
+    "radius": 8,
+    "Website": "CHART Website",
+    "created_at": 2013,
+    "Location": "Copenhagen, Denmark",
+    "latitude": 55.6760968,
+    "longitude": 12.5683371
+  },
+  {
+    "name": "Art On Paper Brussels",
+    "radius": 8,
+    "Website": "http://www.artonpaper.be/",
+    "created_at": 2013,
+    "Location": "Brussels, Belgium",
+    "latitude": 50.8503396,
+    "longitude": 4.3517103
+  },
+  {
+    "name": "Art Ibiza?",
+    "radius": 8,
+    "Website": "http://www.partibiza.com/",
+    "created_at": 2013,
+    "Location": "Ibiza, Spain",
+    "latitude": 38.9067339,
+    "longitude": 1.4205983
+  },
+  {
+    "name": "Brighton Art Fair",
+    "radius": 8,
+    "Website": "http://www.brightonartfair.co.uk/",
+    "created_at": 2013,
+    "Location": "Brighton, UK",
+    "latitude": 50.82253,
+    "longitude": -0.137163
+  },
+  {
+    "name": "1:54 Contemporary African Art Fair London",
+    "radius": 8,
+    "Website": "http://1-54.com/london/",
+    "created_at": 2013,
+    "Location": "London Uk",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "Flashback, Italy",
+    "radius": 8,
+    "Website": "http://www.flashback.to.it/it/home/",
+    "created_at": 2013,
+    "Location": "Turin, Italy",
+    "latitude": 45.070312,
+    "longitude": 7.6868565
+  },
+  {
+    "name": "Art021 Shanghai Contemporary",
+    "radius": 8,
+    "Website": "Art021 Shanghai Contemporary Website",
+    "created_at": 2013,
+    "Location": "Shanghai, China",
+    "latitude": 31.230416,
+    "longitude": 121.473701
+  },
+  {
+    "name": "Bank Art Fair",
+    "radius": 8,
+    "Website": "http://www.bankartfair.com/",
+    "created_at": 2013,
+    "Location": "Hong Kong",
+    "latitude": 22.396428,
+    "longitude": 114.109497
+  },
+  {
+    "name": "Fridge Art Fair Miami",
+    "radius": 8,
+    "Website": "http://www.fridgeartfair.com/",
+    "created_at": 2013,
+    "Location": "Miami,FL",
+    "latitude": 25.7616798,
+    "longitude": -80.1917902
+  },
+  {
+    "name": "Este Arte",
+    "radius": 8,
+    "Website": "http://estearte.com/",
+    "created_at": 2014,
+    "Location": "PUNTA DEL ESTE, URUGUAY",
+    "latitude": -34.9368789,
+    "longitude": -54.9281496
+  },
+  {
+    "name": "YIA ART Fair",
+    "radius": 8,
+    "Website": "http://yia-artfair.com/",
+    "created_at": 2014,
+    "Location": "Bologna, Italy",
+    "latitude": 44.494887,
+    "longitude": 11.3426163
+  },
+  {
+    "name": "YIA ART Fair",
+    "radius": 8,
+    "Website": "http://yia-artfair.com/",
+    "created_at": 2014,
+    "Location": "Paris, France",
+    "latitude": 48.856614,
+    "longitude": 2.3522219
+  },
+  {
+    "name": "CLIO Art Fair",
+    "radius": 8,
+    "Website": "http://www.clioartfair.com/",
+    "created_at": 2014,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "Paris Tribal",
+    "radius": 8,
+    "Website": "http://paristribal.com/",
+    "created_at": 2014,
+    "Location": "Paris, France",
+    "latitude": 48.856614,
+    "longitude": 2.3522219
+  },
+  {
+    "name": "Chicago Jewlery, Art, and Antiques Fair",
+    "radius": 8,
+    "Website": "http://www.chicagospringshow.com/",
+    "created_at": 2014,
+    "Location": "Chicago, IL",
+    "latitude": 41.8781136,
+    "longitude": -87.6297982
+  },
+  {
+    "name": "StARTup SF",
+    "radius": 8,
+    "Website": "http://sf.startupartfair.com/",
+    "created_at": 2014,
+    "Location": "San Francisco, CA",
+    "latitude": 37.7749295,
+    "longitude": -122.4194155
+  },
+  {
+    "name": "Frieze NY",
+    "radius": 8,
+    "Website": "Frieze NY Website",
+    "created_at": 2014,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "Formosa 101 Taipei",
+    "radius": 8,
+    "Website": "http://www.formosa101artfair.com/en/index.php",
+    "created_at": 2014,
+    "Location": "Taipei City, Taiwan",
+    "latitude": 25.0329636,
+    "longitude": 121.5654268
+  },
+  {
+    "name": "Feature Art Fair",
+    "radius": 8,
+    "Website": "http://www.featureartfair.com/about/",
+    "created_at": 2014,
+    "Location": "Toronto, Ontario",
+    "latitude": 43.653226,
+    "longitude": -79.3831843
+  },
+  {
+    "name": "Art Miami - New York",
+    "radius": 8,
+    "Website": "http://www.artnyfair.com/DesktopDefault.aspx?tabid=19&tabindex=18",
+    "created_at": 2014,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "Art Safari Bucharest",
+    "radius": 8,
+    "Website": "http://www.artsafari.ro/en/",
+    "created_at": 2014,
+    "Location": " Romania",
+    "latitude": 45.943161,
+    "longitude": 24.96676
+  },
+  {
+    "name": "Grand Asian Art Bazaar",
+    "radius": 8,
+    "Website": "http://www.asianart.com/",
+    "created_at": 2014,
+    "Location": "Santa Fe, New Mexico",
+    "latitude": 35.6869752,
+    "longitude": -105.937799
+  },
+  {
+    "name": "Foto Basel",
+    "radius": 8,
+    "Website": "http://www.photo-basel.com/",
+    "created_at": 2014,
+    "Location": "Basel, Switzerland",
+    "latitude": 47.5595986,
+    "longitude": 7.5885761
+  },
+  {
+    "name": "New York Antique Jewelry Show",
+    "radius": 8,
+    "Website": "http://newyorkantiquejewelryandwatchshow.com/",
+    "created_at": 2014,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "100% Design South Africa",
+    "radius": 8,
+    "Website": "http://www.100percentdesign.co.za/",
+    "created_at": 2014,
+    "Location": "Cape Town, South Africa",
+    "latitude": -33.9248685,
+    "longitude": 18.4240553
+  },
+  {
+    "name": "Start Art Fair",
+    "radius": 8,
+    "Website": "http://startartfair.com/",
+    "created_at": 2014,
+    "Location": "London, United Kingdom",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "Photo Shanghai",
+    "radius": 8,
+    "Website": "http://photofairs.org/shanghai/en/",
+    "created_at": 2014,
+    "Location": "Shanghai, China",
+    "latitude": 31.230416,
+    "longitude": 121.473701
+  },
+  {
+    "name": "viennacontemporary",
+    "radius": 8,
+    "Website": "viennacontemporary Website",
+    "created_at": 2014,
+    "Location": "Vienna, Austria",
+    "latitude": 48.2081743,
+    "longitude": 16.3738189
+  },
+  {
+    "name": "Goldsmith Fair Week One",
+    "radius": 8,
+    "Website": "https://www.goldsmithsfair.co.uk/",
+    "created_at": 2014,
+    "Location": "London, United Kingdom",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "Positions Berlin",
+    "radius": 8,
+    "Website": "http://positions.de/start.html",
+    "created_at": 2014,
+    "Location": "Berlin, Germany",
+    "latitude": 52.5200066,
+    "longitude": 13.404954
+  },
+  {
+    "name": "Goldsmiths Week 2",
+    "radius": 8,
+    "Website": "https://www.goldsmithsfair.co.uk/",
+    "created_at": 2014,
+    "Location": "London, United Kingdom",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "POP International Art Show Austin",
+    "radius": 8,
+    "Website": "http://popaustin.com/",
+    "created_at": 2014,
+    "Location": "Austin, Texas",
+    "latitude": 30.267153,
+    "longitude": -97.7430608
+  },
+  {
+    "name": "Westbund Art + Design",
+    "radius": 8,
+    "Website": "http://westbundshanghai.com/index.php/English",
+    "created_at": 2014,
+    "Location": "Shanghai, China",
+    "latitude": 31.230416,
+    "longitude": 121.473701
+  },
+  {
+    "name": "Art Central Hong Kong",
+    "radius": 8,
+    "Website": "Art Central Website",
+    "created_at": 2015,
+    "Location": "Hong Kong",
+    "latitude": 22.396428,
+    "longitude": 114.109497
+  },
+  {
+    "name": "ART ON PAPER",
+    "radius": 8,
+    "Website": "Art On Paper Website",
+    "created_at": 2015,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "Art On Paper",
+    "radius": 8,
+    "Website": "Art On Paper Website",
+    "created_at": 2015,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "California Antiquiarian Book Fair",
+    "radius": 8,
+    "Website": "https://www.cabookfair.com/",
+    "created_at": 2015,
+    "Location": "Oakland, CA",
+    "latitude": 37.8043637,
+    "longitude": -122.2711137
+  },
+  {
+    "name": "Photo Contemporary",
+    "radius": 8,
+    "Website": "http://photocontemporary.com/about/",
+    "created_at": 2015,
+    "Location": "Hollywood, California",
+    "latitude": 34.0928092,
+    "longitude": -118.3286614
+  },
+  {
+    "name": "Open Source London",
+    "radius": 8,
+    "Website": "http://opensource.london/",
+    "created_at": 2015,
+    "Location": "Dalston, London",
+    "latitude": 51.5476228,
+    "longitude": -0.0701132
+  },
+  {
+    "name": "Art Vancouver",
+    "radius": 8,
+    "Website": "http://artvancouver.net/",
+    "created_at": 2015,
+    "Location": "Vancouver, BC",
+    "latitude": 49.2827291,
+    "longitude": -123.1207375
+  },
+  {
+    "name": "Photo London",
+    "radius": 8,
+    "Website": "http://photolondon.org/",
+    "created_at": 2015,
+    "Location": "London, UK",
+    "latitude": 51.5073509,
+    "longitude": -0.1277583
+  },
+  {
+    "name": "Amsterdam Art Fair",
+    "radius": 8,
+    "Website": "http://www.amsterdamartfair.nl/",
+    "created_at": 2015,
+    "Location": "Amsterdam, NL",
+    "latitude": 52.3702157,
+    "longitude": 4.8951679
+  },
+  {
+    "name": "Rhys Art Fair",
+    "radius": 8,
+    "Website": "http://rhy-art.com/",
+    "created_at": 2015,
+    "Location": "Basel, Switzerland",
+    "latitude": 47.5595986,
+    "longitude": 7.5885761
+  },
+  {
+    "name": "Art Marabella",
+    "radius": 8,
+    "Website": "http://marbellafair.com/info/",
+    "created_at": 2015,
+    "Location": "Marbella, Spain",
+    "latitude": 36.510071,
+    "longitude": -4.8824474
+  },
+  {
+    "name": "Art | Perspectives Canada",
+    "radius": 8,
+    "Website": "http://artperspective.org/",
+    "created_at": 2015,
+    "Location": "Edmonton, AB",
+    "latitude": 53.544389,
+    "longitude": -113.4909267
+  },
+  {
+    "name": "Seattle Art Fair",
+    "radius": 8,
+    "Website": "Seattle Art Fair Website",
+    "created_at": 2015,
+    "Location": "Seattle, WA",
+    "latitude": 47.6062095,
+    "longitude": -122.3320708
+  },
+  {
+    "name": "StARTup Chicago",
+    "radius": 8,
+    "Website": "http://chi.startupartfair.com/",
+    "created_at": 2015,
+    "Location": "Los Angeles, California",
+    "latitude": 34.0522342,
+    "longitude": -118.2436849
+  },
+  {
+    "name": "Art Bahrain",
+    "radius": 8,
+    "Website": "http://artbahrain.org/",
+    "created_at": 2015,
+    "Location": "Manama, Bahrain",
+    "latitude": 26.2285161,
+    "longitude": 50.5860497
+  },
+  {
+    "name": "Asia NOW",
+    "radius": 8,
+    "Website": "http://www.asianowparis.com/",
+    "created_at": 2015,
+    "Location": "Paris, France",
+    "latitude": 48.856614,
+    "longitude": 2.3522219
+  },
+  {
+    "name": "Art Accra",
+    "radius": 8,
+    "Website": "http://www.artaccra.com/",
+    "created_at": 2015,
+    "Location": "Ghana , Africa",
+    "latitude": 7.946527,
+    "longitude": -1.023194
+  },
+  {
+    "name": "Art Thessoloniki",
+    "radius": 8,
+    "Website": "http://art-thessaloniki.helexpo.gr/en",
+    "created_at": 2015,
+    "Location": "Thessaloniki, greece",
+    "latitude": 40.6400629,
+    "longitude": 22.9444191
+  },
+  {
+    "name": "X Contemporary",
+    "radius": 8,
+    "Website": "http://xcontemporaryart.com/",
+    "created_at": 2015,
+    "Location": "Miami Beach, FL",
+    "latitude": 25.790654,
+    "longitude": -80.1300455
+  },
+  {
+    "name": "Ink Asia",
+    "radius": 8,
+    "Website": "http://www.inkasia.com.hk/",
+    "created_at": 2015,
+    "Location": "Hong Kong",
+    "latitude": 22.396428,
+    "longitude": 114.109497
+  },
+  {
+    "name": "PINTA Miami",
+    "radius": 8,
+    "Website": "http://www.pintamiami.com/",
+    "created_at": 2015,
+    "Location": "Miami, FL",
+    "latitude": 25.7616798,
+    "longitude": -80.1917902
+  },
+  {
+    "name": "StARTup LA",
+    "radius": 8,
+    "Website": "http://www.startupartfair.com/",
+    "created_at": 2015,
+    "Location": "Los Angeles, CA",
+    "latitude": 34.0522342,
+    "longitude": -118.2436849
+  },
+  {
+    "name": "TEFAF New York",
+    "radius": 8,
+    "Website": "https://www.tefaf.com/",
+    "created_at": 2016,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "TEFAF Spring Design",
+    "radius": 8,
+    "Website": "http://www.tefaf.com/",
+    "created_at": 2016,
+    "Location": "New York, NY",
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+  {
+    "name": "Cornwall art fair",
+    "radius": 8,
+    "Website": "http://www.cornwallartfair.co.uk/",
+    "created_at": 2016,
+    "Location": "Cornwall, England",
+    "latitude": 50.2660471,
+    "longitude": -5.0527125
+  },
+  {
+    "name": "ARCOlisboa",
+    "radius": 8,
+    "Website": "http://www.ifema.es/arcolisboa_01",
+    "created_at": 2016,
+    "Location": "Lisbon, Portugal",
+    "latitude": 38.7222524,
+    "longitude": -9.1393366
+  },
+  {
+    "name": "Art Stage Jakarta",
+    "radius": 8,
+    "Website": "http://artstage.com/",
+    "created_at": 2016,
+    "Location": "Jakarta, Indonesia",
+    "latitude": -6.2250138,
+    "longitude": 106.9004472
+  },
+  {
+    "name": "CODE Art Fair",
+    "radius": 8,
+    "Website": "http://www.codeartfair.dk/",
+    "created_at": 2016,
+    "Location": "Copenhagen, Denmark",
+    "latitude": 55.6760968,
+    "longitude": 12.5683371
+  },
+  {
+    "name": "Houston Art & Antiques",
+    "radius": 8,
+    "Website": "http://fall.houstonantiquesartdesign.com/",
+    "created_at": 2016,
+    "Location": "Houston, Texas",
+    "latitude": 29.7604267,
+    "longitude": -95.3698028
+  },
+  {
+    "name": "Premio Arte Roma",
+    "radius": 8,
+    "Website": "http://www.premioarteroma.it/en/premio/",
+    "created_at": 2016,
+    "Location": "Rome, Italy",
+    "latitude": 41.9027835,
+    "longitude": 12.4963655
+  },
+  {
+    "name": "Galeristes",
+    "radius": 8,
+    "Website": "http://galeristes.fr/",
+    "created_at": 2016,
+    "Location": "Paris, France",
+    "latitude": 48.856614,
+    "longitude": 2.3522219
+  },
+  {
+    "name": "Singapore Contemporary Art Show",
+    "radius": 8,
+    "Website": "http://www.singaporecontemporary.com/home/en/",
+    "created_at": 2016,
+    "Location": "Suntec City, Singapore",
+    "latitude": 1.2959623,
+    "longitude": 103.8579517
+  },
+  {
+    "name": "Art Vienna",
+    "radius": 8,
+    "Website": "http://www.artvienna.org/",
+    "created_at": 2017,
+    "Location": "Vienna, Austria",
+    "latitude": 48.2081743,
+    "longitude": 16.3738189
+  }
+]

@@ -19,19 +19,28 @@
   },
   "homepage": "https://github.com/craigspaeth/partner-map",
   "scripts": {
-    "c": "browserify lib/index.coffee -t coffeeify > public/bundle.js",
-    "w": "watchify lib/index.coffee  -t coffeeify -o public/bundle.js",
-    "d": "coffee  lib/map-data.coffee"
+    "watch": "concurrently --kill-others \"yarn run watch-galleries\" \"yarn run watch-fairs\"  \"yarn run watch-partner-inquiries\" \"yarn run watch-partner-to-inquiries\"",
+    "build": "concurrently --kill-others \"yarn run galleries\" \"yarn run fairs\" \"yarn run inquiries\"",
+    "galleries": "browserify web/galleries.coffee -t coffeeify > web/public/galleries.js",
+    "watch-galleries": "watchify web/galleries.coffee  -t coffeeify -o web/public/galleries.js",
+    "fairs": "browserify web/fairs.coffee -t coffeeify > web/public/fairs.js",
+    "watch-fairs": "watchify web/fairs.coffee  -t coffeeify -o web/public/fairs.js",
+    "partner-inquiries": "browserify web/partner-inquiries.coffee -t coffeeify > web/public/partner-inquiries.js",
+    "watch-partner-inquiries": "watchify web/partner-inquiries.coffee  -t coffeeify -o web/public/partner-inquiries.js",
+    "partner-to-inquiries": "browserify web/partner-inquiries.coffee -t coffeeify > web/public/partner-inquiries.js",
+    "watch-partner-to-inquiries": "watchify web/partner-to-inquiries.coffee  -t coffeeify -o web/public/partner-to-inquiries.js"
   },
   "dependencies": {
-    "d3": "*",
-    "topojson": "*",
-    "datamaps": "git://github.com/markmarkoh/datamaps.git",
+    "async": "*",
     "browserify": "*",
-    "coffeeify": "*",
     "coffee-script": "*",
-    "watchify": "*",
+    "coffeeify": "*",
+    "concurrently": "^3.1.0",
+    "d3": "*",
+    "datamaps": "git://github.com/markmarkoh/datamaps.git",
     "mongojs": "*",
-    "async": "*"
+    "pg": "^6.1.2",
+    "topojson": "*",
+    "watchify": "*"
   }
 }
