@@ -23,3 +23,7 @@ Generate the geo points data, by using the coffescript files in the `data` dirs,
 `npm run watch`
 
 Then look at the html files inside `public/web`.
+
+## Docs
+
+There's a write-up on the Artsy Blog: [Mashing Data, Making Maps](http://artsy.github.io/blog/2017/01/25/mashing-maps/).
